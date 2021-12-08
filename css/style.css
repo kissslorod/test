@@ -1,0 +1,70 @@
+body {
+  background-color: aqua;
+}
+
+.zagolovok {
+  color: rgb(218, 19, 19);
+  text-decoration: underline;
+  font-size: bold;
+  text-align: center;
+}
+
+.zagolovok2 {
+  color: rgb(218, 19, 19);
+  font-size: normal;
+  text-align: center;
+}
+
+.zagolovok3 {
+  color: rgb(218, 19, 19);
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  font-family: Tahoma, sans-serif;
+}
+
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+}
+.video__media {
+  height: auto;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.intro {
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+.knopka1 {
+  text-align: center;
+  font-style: italic;
+}
+.knopka2 {
+  text-align: center;
+}
+
+.podval {
+  color: black;
+  top: 20px;
+  font-family: fantasy;
+  font-size: 400;
+}
+.clock {
+  color: rgb(218, 19, 19);
+  text-align: right;
+  padding-right: 10px;
+  padding-top: 10px;
+  font-style: oblique;
+}
+
+ul {
+}
+
+li {
+}
